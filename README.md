@@ -5,6 +5,8 @@ galaxy visualizations using Python and Streamlit.
 
 > A procedural visualization, not a real astronomical simulation.
 
+![image alt](https://github.com/abhishek-Jain24/Galaxy-Explorer/blob/ae380438d7ce5efe8e2780236a74b583c12ea2ed/Screenshot%202026-10-16%20083833.png)
+
 ## Technologies
 
 Python · Streamlit · NumPy · Matplotlib · Plotly
